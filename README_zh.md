@@ -109,7 +109,7 @@ pip install -r requirements.txt
 ```python
 API_KEY = "your_api_key_here"
 BASE_URL = "http://192.168.3.131:8000/v1/chat/completions"
-MODEL = "deepseek-v4"
+MODEL = "qwen3-32b"
 ```
 
 如果你的代码使用环境变量，也可以对应配置：
