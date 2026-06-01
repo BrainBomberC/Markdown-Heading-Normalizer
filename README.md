@@ -109,7 +109,7 @@ Open `tools.py` and fill in your service details:
 ```python
 API_KEY = "your_api_key_here"
 BASE_URL = "http://192.168.3.131:8000/v1/chat/completions"
-MODEL = "deepseek-v4"
+MODEL = "qwen3-32b"
 ```
 
 Or configure via environment variables:
